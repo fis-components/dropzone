@@ -1,0 +1,13 @@
+{
+    "name": "dropzone",
+    "description": "Handles drag and drop of files for you.",
+    "repos": "https://github.com/enyo/dropzone.git",
+    "main": "dropzone.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "4.2.0"
+}
